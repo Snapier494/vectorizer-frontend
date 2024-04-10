@@ -73,3 +73,7 @@ body {
 .file-label:hover {
   background-color: #45a049;
 }
+
+.number-label {
+  margin-top: 10px;
+}
